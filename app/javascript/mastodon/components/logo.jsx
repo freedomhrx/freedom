@@ -3,10 +3,10 @@ import React from 'react';
 const Logo = () => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="261"
-      height="66"
+      width="240"
+      height="40"
       version="1"
-      viewBox="0 0 1500 375"
+      viewBox="0 0 2200 375"
     >
       <path
         fill="#0a6ff1"
